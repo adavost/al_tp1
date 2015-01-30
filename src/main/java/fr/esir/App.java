@@ -2,7 +2,7 @@ package fr.esir;
 
 /**
  * Hello world!
- * salut
+ *salut
  */
 public class App 
 {
